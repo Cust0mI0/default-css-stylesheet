@@ -1,0 +1,14 @@
+:root{font-size: 10px;}
+
+html,body{margin: 0;line-height: 1;box-sizing: border-box;}
+
+/* default input,textarea */
+input,textarea,fieldset{border: none;padding: 5px;background: #f4f4f4;display: block;}
+
+/* default button */
+button{border: none;cursor: pointer;padding: 15px 20px;}
+button:hover{opacity: .7;}
+
+/* default margin,paddings */
+h1,h2,h3,h4,h5,h6,ol,ul,blockquote,figure,p{margin: 0;padding: 0;}
+

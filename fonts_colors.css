@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700|Work+Sans:300,400,700&display=swap');
+
+/* default font-family */
+html,body,ul,button,input,textarea,select,pre{font-family: 'Open Sans', sans-serif;}
+
+/* default normal font-sizes*/
+html,body,button,input,textarea,sub,small,select{font-size: 20px;}
+
+/* default title font-sizes */
+h1,h2,h3,h4,h5,h6{font-size: 32px;}
+
+/* default color */
+html,body,a,input,textarea,select,button{color: #000;}
+
+/* default text styles */
+html,body,a,b,strong,h1,h2,h3,h4,h5,h6{text-decoration: none;font-weight: normal;list-style: none;}
