@@ -16,3 +16,6 @@ a,input {outline: none;text-decoration: none;}
 
 /* transitions */
 input[type="button"],input[type="submit"],a,button {transition: 0.2s ease-in-out; -moz-transition: 0.2s ease-in-out; -webkit-transition: 0.2s ease-in-out; cursor: pointer;}
+
+img{max-width: 100%;}
+
