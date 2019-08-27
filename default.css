@@ -6,7 +6,7 @@ html,body{margin: 0;line-height: 1;box-sizing: border-box;overflow-x: hidden;}
 input,textarea,fieldset{border: none;padding: 5px;background: #f4f4f4;display: block;}
 
 /* default button */
-button{border: none;cursor: pointer;padding: 15px 20px;}
+button{button{border: none;cursor: pointer;padding: 15px 20px;font-weight: 300;text-transform: normal;text-align: center;}}
 button:hover{opacity: .7;}
 
 /* default margin,paddings */
