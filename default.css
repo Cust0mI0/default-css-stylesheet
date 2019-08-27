@@ -1,6 +1,6 @@
 :root{font-size: 10px;}
 
-html,body{margin: 0;line-height: 1;box-sizing: border-box;}
+html,body{margin: 0;line-height: 1;box-sizing: border-box;overflow-x: hidden;}
 
 /* default input,textarea */
 input,textarea,fieldset{border: none;padding: 5px;background: #f4f4f4;display: block;}
