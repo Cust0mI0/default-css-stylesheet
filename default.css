@@ -1,5 +1,7 @@
 :root{font-size: 10px;}
 
+*{box-sizing: border-box;}
+
 html,body{margin: 0;line-height: 1;box-sizing: border-box;overflow-x: hidden;}
 
 /* default input,textarea */
@@ -12,10 +14,12 @@ button:hover{opacity: .7;}
 /* default margin,paddings */
 h1,h2,h3,h4,h5,h6,ol,ul,blockquote,figure,p{margin: 0;padding: 0;}
 
+/* default decoration */
 a,input {outline: none;text-decoration: none;}
 
 /* transitions */
 input[type="button"],input[type="submit"],a,button {transition: 0.2s ease-in-out; -moz-transition: 0.2s ease-in-out; -webkit-transition: 0.2s ease-in-out; cursor: pointer;}
 
+/* default img */
 img{max-width: 100%;}
 
