@@ -23,3 +23,6 @@ input[type="button"],input[type="submit"],a,button {transition: 0.2s ease-in-out
 /* default img */
 img{max-width: 100%;}
 
+ul,lo,li{list-style: none;}
+
+
